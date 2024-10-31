@@ -27,12 +27,13 @@ h1 {
 
 nav {
     background-color: rgba(2, 66, 29, 0.5);
+    transition: all .3s ease-in-out;
 }
 
 img.logo-image {
     border-radius: 23% 0% 24% 0% / 22% 10% 23% 10%;
     box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
-    width: 100px;
+    width: 130px;
     background-color: #ffffff;
 }
 

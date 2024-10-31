@@ -50,5 +50,6 @@
     </section>
 
     <script src="js/carousel.js"></script>
+    <script src="js/navbarAnimation.js"></script>
 </body>
 </html>
