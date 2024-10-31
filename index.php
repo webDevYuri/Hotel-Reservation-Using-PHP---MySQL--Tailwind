@@ -49,6 +49,18 @@
         ?>
     </section>
 
+    <section id="deluxeRoom">
+        <?php
+            include 'components/deluxe-room.php'
+        ?>
+    </section>
+
+    <section id="newsLetter">
+        <?php
+            include 'components/news-letter.php'
+        ?>
+    </section>
+
     <script src="js/carousel.js"></script>
     <script src="js/navbarAnimation.js"></script>
 </body>

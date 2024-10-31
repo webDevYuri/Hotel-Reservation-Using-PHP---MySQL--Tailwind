@@ -67,14 +67,4 @@
             </div>
         </div>
     </div>
-    <div class="bg-green-950 ceo-said flex items-center justify-between pb-10 px-20">
-        <div class="mt-20">
-            <p class="z-10 text-lg font-bold italic text-green-50">Young May Arhi</p>
-            <p class="text-green-50">Chief Executive Officer</p>
-        </div>
-        <div class="w-2/5 flex mt-10">
-            <span class="text-5xl text-green-50">&quot;</span>
-            <p class="text-justify text-green-50 font-light">At our company, we believe in pushing the boundaries of innovation and excellence. Our commitment to quality and customer satisfaction drives everything we do, and we are dedicated to providing exceptional service and solutions that meet the needs of our clients.</p>
-        </div>
-    </div>
 </div>
