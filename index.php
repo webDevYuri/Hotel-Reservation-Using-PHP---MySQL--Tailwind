@@ -67,6 +67,12 @@
         ?>
     </section>
 
+    <section id="location">
+        <?php
+            include 'components/location.php'
+        ?>
+    </section>
+
     <script src="js/carousel.js"></script>
     <script src="js/navbarAnimation.js"></script>
 </body>
