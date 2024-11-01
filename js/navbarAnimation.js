@@ -5,16 +5,18 @@ function changeNavbarElementsDesign() {
     const navLinks = document.querySelectorAll(".nav-link");
     const navLinkList = document.getElementsByClassName("nav-link-list")[0];
     const brandImage = document.getElementsByClassName("logo-image")[0];
+    const linkActive = document.getElementsByClassName("link-active")[0];
 
     const scrollThreshold = 50; 
 
     if(window.pageYOffset > scrollThreshold) {
-        navbar.style.backgroundColor = 'rgba(240, 253, 244, 0.3)';
+        navbar.style.backgroundColor = 'rgba(240, 253, 244, 0.5)';
         navbar.style.boxShadow = 'rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px';
         navbar.style.backdropFilter = 'blur(15px)';
         headerTopElements.style.display = 'none';
         headerHr.style.display = 'none';
         brandImage.style.width = '100px';
+        brandImage.style.backgroundColor = '#f0fdf4';
         brandImage.style.transform = 'rotate(360deg)';
 
         navLinks.forEach(navLink => {
@@ -24,6 +26,9 @@ function changeNavbarElementsDesign() {
         navLinkList.classList.remove('p-10');
         navLinkList.classList.add('p-5');
 
+        linkActive.classList.remove('bg-green-950');
+        linkActive.classList.add('bg-green-50');
+
     } else {
         navbar.style.backgroundColor = '';
         navbar.style.boxShadow = '';
@@ -32,6 +37,7 @@ function changeNavbarElementsDesign() {
         headerHr.style.display = '';
         brandImage.style.width = '';
         brandImage.style.transform = '';
+        brandImage.style.backgroundColor = '';
 
         navLinks.forEach(navLink => {
             navLink.style.color = '';
@@ -39,6 +45,9 @@ function changeNavbarElementsDesign() {
 
         navLinkList.classList.remove('p-5');
         navLinkList.classList.add('p-10');
+
+        linkActive.classList.remove('bg-green-50');
+        linkActive.classList.add('bg-green-950');
     }
 }
 

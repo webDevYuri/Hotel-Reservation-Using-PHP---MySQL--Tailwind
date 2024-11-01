@@ -47,13 +47,13 @@
             <div class="p-10 nav-link-list">
                 <ul class="nav-container flex items-center gap-7 justify-center">
                     <li>
-                        <a href="index.php" class="nav-link link-active duration-300 ease-in text-xl font-semibold text-green-50 bg-green-950 rounded-br-3xl rounded-tl-3xl px-5 py-2" style="box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;">HOME</a>
+                        <a href="index.php" class="nav-link duration-300 ease-in text-xl font-semibold text-green-50 px-5 py-2">HOME</a>
                     </li>
                     <li>
                         <a href="facilities-page.php" class="nav-link duration-300 ease-in text-xl font-semibold text-green-50 px-5 py-2">FACILITIES</a>
                     </li>
                     <li>
-                        <a href="room-page.php" class="nav-link duration-300 ease-in text-xl font-semibold text-green-50 px-5 py-2">ROOMS</a>
+                        <a href="room-page.php" class="nav-link link-active duration-300 ease-in text-xl font-semibold text-green-50 bg-green-950 rounded-br-3xl rounded-tl-3xl px-5 py-2" style="box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;">ROOMS</a>
                     </li>
                     <li>
                         <a href="index.php"><img src="assets/logo/logo.png" alt="LOGO" class="duration-1000 ease-in logo-image p-2"></a>
@@ -72,57 +72,15 @@
         </nav>
     </header>
     
-    <section id="hero">
+    <section id="room">
         <?php
-            include 'components/bg-carousel.php'
+            include 'components/rooms.php'
         ?>
     </section>
 
-    <section id="tagline">
+    <section id="checkAvailability">
         <?php
-            include 'components/tagline.php'
-        ?>
-    </section>
-
-    <section id="strength">
-        <?php
-            include 'components/strength.php'
-        ?>
-    </section>
-
-    <section id="whyChooseUs">
-        <?php
-            include 'components/why-choose-us.php'
-        ?>
-    </section>
-
-    <section id="popularRoom">
-        <?php
-            include 'components/popular-room.php'
-        ?>
-    </section>
-
-    <section id="deluxeRoom">
-        <?php
-            include 'components/deluxe-room.php'
-        ?>
-    </section>
-
-    <section id="testimonials">
-        <?php
-            include 'components/testimonials.php'
-        ?>
-    </section>
-
-    <section id="location">
-        <?php
-            include 'components/location.php'
-        ?>
-    </section>
-
-    <section id="newsLetter">
-        <?php
-            include 'components/news-letter.php'
+            include 'components/check-availability.php'
         ?>
     </section>
 
