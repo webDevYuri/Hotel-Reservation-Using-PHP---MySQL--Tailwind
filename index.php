@@ -61,6 +61,12 @@
         ?>
     </section>
 
+    <section id="testimonials">
+        <?php
+            include 'components/testimonials.php'
+        ?>
+    </section>
+
     <script src="js/carousel.js"></script>
     <script src="js/navbarAnimation.js"></script>
 </body>
