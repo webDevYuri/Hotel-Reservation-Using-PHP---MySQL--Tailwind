@@ -11,7 +11,7 @@
     <div class="flex gap-5 mt-10 justify-center items-center">
         <div class="popular-room-box z-10 bg-green-50" style="width: 30%; box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;">
             <div class="popular-room-box-header">
-                <img src="assets/rooms/lowRoomOne.jpg" alt="">
+                <img src="assets/rooms/lowroomOne.jpg" alt="">
             </div>
             <div class="popular-room-box-body p-5">
                 <div class="flex">
@@ -30,7 +30,7 @@
         </div>
         <div class="popular-room-box z-10 bg-green-50" style="width: 30%; box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;">
             <div class="popular-room-box-header">
-                <img src="assets/rooms/lowRoomTwo.jpg" alt="">
+                <img src="assets/rooms/lowroomTwo.jpg" alt="">
             </div>
             <div class="popular-room-box-body p-5">
                 <div class="flex">
@@ -49,7 +49,7 @@
         </div>
         <div class="popular-room-box z-10 bg-green-50" style="width: 30%; box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;">
             <div class="popular-room-box-header">
-                <img src="assets/rooms/lowRoomThree.jpg" alt="">
+                <img src="assets/rooms/lowroomThree.jpg" alt="">
             </div>
             <div class="popular-room-box-body p-5">
                 <div class="flex">
