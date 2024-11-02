@@ -12,6 +12,16 @@ body {
     position: relative;
 }
 
+.fade-in {
+    opacity: 0;
+    transition: opacity .5s ease-in;
+}
+
+.fade-in-visible {
+    opacity: 1;
+}
+
+
 h1 {
     font-family: 'Times New Roman', Times, serif !important;
 }
@@ -148,3 +158,4 @@ a.absolute-room-button {
     right: 1px;
     top: 1px;
 }
+

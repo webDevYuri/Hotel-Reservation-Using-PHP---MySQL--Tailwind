@@ -1,4 +1,4 @@
-<div class="pt-10 pb-20  bg-green-950">
+<div class="fade-in pt-10 pb-20  bg-green-950">
     <div class="flex flex-col items-center">
         <h2 class="underline text-green-100 text-3xl font-bold">STAY IN TOUCH</h2>
         <h1 class="text-green-50 text-5xl mt-3 font-bold">News Letter</h1>

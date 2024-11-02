@@ -1,4 +1,4 @@
-<div class="px-20 pb-10 popular-room">
+<div class="fade-in px-20 pb-10 popular-room">
     <div class="flex items-center justify-between">
         <div>
             <h2 class="underline text-2xl text-green-900 font-bold">POPULAR</h2>

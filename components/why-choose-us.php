@@ -1,4 +1,4 @@
-<div class="why-choose-us-wrapper pb-10">
+<div class="fade-in why-choose-us-wrapper pb-10">
     <div class="why-choose-us flex">
         <div class="why-image-container w-1/2">
             <img src="assets/rooms/whyRoom.jpg" class="why-image" alt="">

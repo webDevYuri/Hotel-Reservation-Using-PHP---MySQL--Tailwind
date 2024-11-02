@@ -1,5 +1,5 @@
 <div class="contact flex items-center justify-center">
-    <div class="tagline-wrapper flex items-center bg-green-50 justify-center rounded-lg px-5 py-20" style="box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px; background-color: rgba(255, 255, 255, 0.5); backdrop-filter: blur(10px)">
+    <div class="fade-in tagline-wrapper flex items-center bg-green-50 justify-center rounded-lg px-5 py-20" style="box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px; background-color: rgba(255, 255, 255, 0.5); backdrop-filter: blur(10px)">
 
     <img src="assets/decoration/leaf-left.png" class="leaf left-leaf" alt="LEAF" >
 
@@ -22,11 +22,11 @@
 </section>
 
 <div class="p-10 px-20">
-    <div class="flex justify-center flex-col items-center">
+    <div class="fade-in flex justify-center flex-col items-center">
         <h1 class="text-green-950 text-5xl mt-3 font-bold">CONTACT US</h1>
         <img src="assets/decoration/dark.png" alt="" style="width: 200px">
     </div>
-    <div class="flex gap-5 justify-center">
+    <div class="fade-in flex gap-5 justify-center">
         <div class="w-1/2 min-w-1/2">
             <div class="flex py-3 flex-col gap-4">
                 <p><i class="fa-solid fa-location-dot text-3xl text-green-950" style="width: 60px;"></i><span class="text-green-800 text-lg">Bongabon, Nueva Ecija, Philippines</span></p>
@@ -60,6 +60,7 @@
                         <textarea id="textarea" placeholder="" autocomplete="off" class="peer bg-green-50 w-full ps-5 border border-green-950 outline-green-950" style="height: 120px;"></textarea>
                         <label for="textarea" class="absolute left-5 duration-200 top-4 transform scale-75 origin-left text-green-950 font-semibold text-xl peer-placeholder-shown:scale-100 peer-placeholder-shown:translate-y-0 peer-focus:scale-75 peer-focus:-translate-x-3 peer-focus:-translate-y-7 px-2 peer-focus:bg-green-50">Message</label>
                     </div>
+                    <a href="#" class="py-2 bg-green-950 text-green-50 hover:bg-green-800 duration-200 hover:rounded-lg text-center text-xl">SEND</a>
                 </div>
                 <div class="corner-frames">
                     <img src="assets/decoration/form-small-b-left.png" alt="CORNER FRAME" style="width: 70px;">

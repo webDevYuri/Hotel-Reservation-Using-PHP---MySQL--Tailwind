@@ -1,4 +1,4 @@
-<div class="p-10" style="padding-bottom: 100px; box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px 0px;">
+<div class="fade-in p-10" style="padding-bottom: 100px; box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px 0px;">
     <div class="flex flex-col text-center">
         <h2 class="underline text-green-900 text-3xl font-bold">TESTIMONIALS</h2>
         <h1 class="text-green-950 text-5xl mt-3 font-bold">What People Say About Us</h1>

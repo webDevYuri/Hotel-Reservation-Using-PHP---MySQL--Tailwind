@@ -1,9 +1,9 @@
 <div class="py-10">
-    <div class="text-center pb-10">
+    <div class="fade-in text-center pb-10">
         <h2 class="underline text-green-900 text-3xl font-bold">POPULAR</h2>
         <h1 class="text-green-950 text-5xl mt-3 font-bold">Our Deluxe Rooms</h1>
     </div>
-    <div class="deluxe-room items-center flex pt-10">
+    <div class="fade-in deluxe-room items-center flex pt-10">
         <img src="assets/rooms/roomOne.jpg" alt="ROOM ONE" class="w-1/2">
         <div class="deluxe-room-description px-10">
             <h1 class="text-green-950 font-bold text-4xl">Deluxe Family Room</h1>
@@ -35,7 +35,7 @@
             </div>
         </div>
     </div>
-    <div class="deluxe-room items-center flex">
+    <div class="fade-in deluxe-room items-center flex">
         <div class="deluxe-room-description px-10">
             <h1 class="text-green-950 font-bold text-4xl">Superior Suite</h1>
             <p class="text-green-800 mt-3">A luxurious suite with stunning views, modern décor, and premium comfort, designed for ultimate relaxation and privacy.</p>
@@ -67,7 +67,7 @@
         </div>
         <img src="assets/rooms/roomTwo.jpg" alt="ROOM TWO" class="w-1/2">
     </div>
-    <div class="deluxe-room items-center flex">
+    <div class="fade-in deluxe-room items-center flex">
         <img src="assets/rooms/roomThree.jpg" alt="ROOM THREE" class="w-1/2">
         <div class="deluxe-room-description px-10">
             <h1 class="text-green-950 font-bold text-4xl">Executive Room</h1>
@@ -99,7 +99,7 @@
             </div>
         </div>
     </div>
-    <div class="deluxe-room items-center flex">
+    <div class="fade-in deluxe-room items-center flex">
         <div class="deluxe-room-description px-10">
             <h1 class="text-green-950 font-bold text-4xl">Standard Room</h1>
             <p class="text-green-800 mt-3">Ideal for short stays, our standard room offers comfort and convenience with all the basic amenities for a restful experience.</p>

@@ -1,5 +1,5 @@
 <div class="gallery flex items-center justify-center">
-    <div class="tagline-wrapper flex items-center bg-green-50 justify-center rounded-lg px-5 py-20" style="box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px; background-color: rgba(255, 255, 255, 0.5); backdrop-filter: blur(10px)">
+    <div class="fade-in tagline-wrapper flex items-center bg-green-50 justify-center rounded-lg px-5 py-20" style="box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px; background-color: rgba(255, 255, 255, 0.5); backdrop-filter: blur(10px)">
 
     <img src="assets/decoration/leaf-left.png" class="leaf left-leaf" alt="LEAF" >
 
@@ -28,37 +28,37 @@
 </section>
 
 <div class="mt-10 p-10">
-    <div class="flex justify-center items-center flex-col">
+    <div class="fade-in flex justify-center items-center flex-col">
         <h1 class="text-green-950 text-5xl mt-3 font-bold">MEMORIES WITH US</h1>
         <img src="assets/decoration/dark.png" alt="" style="width: 200px">
     </div>
     <div class="flex justify-center flex-wrap">
-        <div style="width: 500px; min-width: 400px">
+        <div class="fade-in" style="width: 500px; min-width: 400px">
             <a href="assets/memories/memories1.jpg" rel="noopener noreferrer" target="_blank">
                 <img src="assets/memories/memories1.jpg" class="w-full" alt="MEMORIES">
             </a>
         </div>
-        <div style="width: 500px; min-width: 400px">
+        <div class="fade-in" style="width: 500px; min-width: 400px">
             <a href="assets/memories/memories2.jpg" rel="noopener noreferrer" target="_blank">
                 <img src="assets/memories/memories2.jpg" class="w-full" alt="MEMORIES">
             </a>
         </div>
-        <div style="width: 500px; min-width: 400px">
+        <div class="fade-in" style="width: 500px; min-width: 400px">
             <a href="assets/memories/memories3.jpg" rel="noopener noreferrer" target="_blank">
                 <img src="assets/memories/memories3.jpg" class="w-full" alt="MEMORIES">
             </a>
         </div>
-        <div style="width: 500px; min-width: 400px">
+        <div class="fade-in" style="width: 500px; min-width: 400px">
             <a href="assets/memories/memories4.jpg" rel="noopener noreferrer" target="_blank">
                 <img src="assets/memories/memories4.jpg" class="w-full" alt="MEMORIES">
             </a>
         </div>
-        <div style="width: 500px; min-width: 400px">
+        <div class="fade-in" style="width: 500px; min-width: 400px">
             <a href="assets/memories/memories1.jpg" rel="noopener noreferrer" target="_blank">
                 <img src="assets/memories/memories1.jpg" class="w-full" alt="MEMORIES">
             </a>
         </div>
-        <div style="width: 500px; min-width: 400px">
+        <div class="fade-in" style="width: 500px; min-width: 400px">
             <a href="assets/memories/memories2.jpg" rel="noopener noreferrer" target="_blank">
                 <img src="assets/memories/memories2.jpg" class="w-full" alt="MEMORIES">
             </a>

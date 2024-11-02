@@ -1,5 +1,5 @@
 <div class="facilities flex items-center justify-center relative px-20">
-    <div class="tagline-wrapper flex items-center bg-green-50 justify-center rounded-lg px-5 py-20" style="box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px; background-color: rgba(255, 255, 255, 0.5); backdrop-filter: blur(10px)">
+    <div class="fade-in tagline-wrapper flex items-center bg-green-50 justify-center rounded-lg px-5 py-20" style="box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px; background-color: rgba(255, 255, 255, 0.5); backdrop-filter: blur(10px)">
 
         <img src="assets/decoration/leaf-left.png" class="leaf left-leaf" alt="LEAF" >
 
@@ -20,28 +20,28 @@
         include 'components/tagline.php'
     ?>
 </section>
-<div class="deluxe-room items-center flex pt-10">
+<div class="fade-in deluxe-room items-center flex pt-10">
     <img src="assets/facilities/facilityOne.jpg" alt="FACILITY ONE" class="w-1/2">
     <div class="deluxe-room-description px-10">
         <h1 class="text-green-950 font-bold text-5xl">Deluxe Family Room</h1>
         <p class="text-green-800 mt-3 text-lg">Spacious family room with a cozy atmosphere, perfect for bonding moments. Enjoy luxury amenities and a peaceful stay.</p>
     </div>
 </div>
-<div class="deluxe-room items-center flex">
+<div class="fade-in deluxe-room items-center flex">
     <div class="deluxe-room-description px-10">
         <h1 class="text-green-950 font-bold text-5xl">Superior Suite</h1>
         <p class="text-green-800 mt-3 text-lg">A luxurious suite with stunning views, modern décor, and premium comfort, designed for ultimate relaxation and privacy.</p>
     </div>
     <img src="assets/facilities/facilityTwo.jpg" alt="FACILITY TWO" class="w-1/2">
 </div>
-<div class="deluxe-room items-center flex">
+<div class="fade-in deluxe-room items-center flex">
     <img src="assets/facilities/facilityThree.jpg" alt="FACILITY THREE" class="w-1/2">
     <div class="deluxe-room-description px-10">
         <h1 class="text-green-950 font-bold text-5xl">Executive Room</h1>
         <p class="text-green-800 mt-3 text-lg">Designed for business travelers, this executive room features a work desk, fast Wi-Fi, and plush furnishings for a comfortable stay.</p>
     </div>
 </div>
-<div class="deluxe-room items-center flex">
+<div class="fade-in deluxe-room items-center flex">
     <div class="deluxe-room-description px-10">
         <h1 class="text-green-950 font-bold text-5xl">Standard Room</h1>
         <p class="text-green-800 mt-3 text-lg">Ideal for short stays, our standard room offers comfort and convenience with all the basic amenities for a restful experience.</p>

@@ -1,4 +1,4 @@
-<div class="advantage p-10 flex flex-col md:flex-row items-center justify-center gap-5">
+<div class="fade-in advantage p-10 flex flex-col md:flex-row items-center justify-center gap-5">
     <div class="advantage-box items-center flex flex-col text-center">
         <img src="assets/icon/users.png" class="mb-2 strength-img" alt="STRENGTH ICON">
         <h1 class="advantage-name text-2xl font-semibold mb-3 text-green-900">EXCEPTIONAL CUSTOMER SERVICE</h1>

@@ -134,5 +134,7 @@
 
     <script src="js/carousel.js"></script>
     <script src="js/navbarAnimation.js"></script>
+    <script src="js/animation.js"></script>
+
 </body>
 </html>
